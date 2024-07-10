@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing Data Science
 - 💞️ I’m looking to collaborate on Ml projects
 - 📫 How to reach me ... 
-- 😄 Pronouns: .   
+- 😄 Pronouns: She/ her
 - ⚡ Fun fact: ...
 
 <!---
