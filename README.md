@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Ml projects
 - 📫 How to reach me ... 
 - 😄 Pronouns: She/ her
-- ⚡ Fun fact: ...
+
 
 <!---
 Nabiyashakeelgouri/Nabiyashakeelgouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
