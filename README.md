@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @Nabiyashakeelgouri
-- 👀 I’m interested in Machine Learning Engineering
-- 🌱 I’m currently pursuing Data Science
-- 💞️ I’m looking to collaborate on Ml projects
-- 📫 How to reach me ... 
-- 😄 Pronouns: She/ her
+# 👋 Hi, I'm Nabiya Shakeel Gouri  
 
+- 👀 Interested in **Machine Learning, AI/ML for Business & Motorsport**  
+- 🌱 Currently pursuing **B.Sc. in Data Science (Final Year)**  
+- 💻 Projects: Linear Regression, Logistic Regression, Data Analysis, and more on the way  
+- 🤝 Open to collaborate on **ML, Data Science, and AI-driven projects**  
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/nabiya-gouri-16a5ab2a9)
+- 😄 Pronouns: **She/Her**  
 
-<!---
-Nabiyashakeelgouri/Nabiyashakeelgouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 Skills & Tools
+- **Languages:** Python, SQL, R  
+- **ML/DL:** Scikit-learn, TensorFlow (learning), PyTorch (learning)  
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn, PostgreSQL  
+- **Other:** Git, Jupyter, VS Code  
+
+---
+
+### 📌 Featured Projects
+- 🏡 [Linear Regression: Car Price Prediction Model](https://github.com/Nabiyashakeelgouri/Car_Model)  
+- 📊 [Logistic Regression: Titanic Survival Prediction Model](https://github.com/Nabiyashakeelgouri/Titanic_Survival_Prediction_Model)  
+- 🚧 More projects coming soon…  
+
+---
+✨ *Always learning, building, and exploring AI for real-world impact* ✨
