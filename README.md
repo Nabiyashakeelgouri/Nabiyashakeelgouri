@@ -4,7 +4,6 @@
 - 🌱 Currently pursuing **B.Sc. in Data Science (Final Year)**  
 - 💻 Projects: Linear Regression, Logistic Regression, Data Analysis, and more on the way  
 - 🤝 Open to collaborate on **ML, Data Science, and AI-driven projects**  
-- 📫 Reach me: [LinkedIn](www.linkedin.com/in/nabiya-gouri-16a5ab2a9)
 - 😄 Pronouns: **She/Her**  
 
 ---
